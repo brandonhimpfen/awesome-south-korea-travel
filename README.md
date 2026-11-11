@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in South Korea, covering official tourism boards, digital entry requirements, high-speed rail networks, regional guides, and navigation tools.
 
+South Korea is a vibrant East Asian destination seamlessly blending ultra-modern digital infrastructure and K-culture with ancient royal palaces, volcanic islands, and mountainous national parks. This list is intended for cultural travelers, urban explorers, transit-savvy tourists, and technology enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
